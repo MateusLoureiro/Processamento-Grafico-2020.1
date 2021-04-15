@@ -1,0 +1,7 @@
+src: https://www.canva.com/colors/color-palettes/facing-forward/
+
+Red: #DB1F48
+Navy Blue: #004369
+Teal: #01949A
+Sand Dollar: #E5DDC8
+
